@@ -1,0 +1,18 @@
+[type=adoc]
+:author: Tuanm
+:vmogroup: https://vmogroup.com/
+:work-email: tuandm1@vmogroup.com
+:personal-email: hello@tuanm.dev
+
+== Tuan at VMO
+
+Indeed, this profile has been created with regard to storing stuff that... doesn't seem to be personal. Some repositories are just for demonstration, others are for testing purposes with my experimental projects.
+
+As long as I'm still working {vmogroup}[here], everything will be updated (but not so frequently).
+
+If you have any questions, suggestions, or just want to talk (with me 😂), feel free to leave a message at:
+
+- My email for work: {work-email}, or
+- My personal email: {personal-email}.
+
+See ya!
