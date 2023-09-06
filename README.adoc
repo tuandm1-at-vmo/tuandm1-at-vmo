@@ -2,7 +2,7 @@
 :author: Tuanm
 :vmogroup: https://vmogroup.com/
 :work-email: tuandm1@vmogroup.com
-:personal-email: hello@tuanm.dev
+:personal-email: vmo@tuanm.dev
 
 == Tuan at VMO
 
